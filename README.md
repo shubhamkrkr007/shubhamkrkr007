@@ -49,7 +49,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://github.com/user-attachments/assets/3aee6780-5f8f-4eaa-afff-e216a9e3c56e"
+<img src="https://github.com/user-attachments/assets/faff2805-c9da-482a-b0c1-033d677c694c"
      width="320"
      style="border-radius:12px; box-shadow:0 8px 20px rgba(0,0,0,0.2);" />
 
@@ -73,7 +73,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://github.com/user-attachments/assets/a3090109-9ee2-4da7-b620-34eca3dec3a3"
+  <img src="https://github.com/user-attachments/assets/19b5e5e7-ee1e-487d-a9d1-a487a862e181"
      width="320"
      style="border-radius:12px; box-shadow:0 8px 20px rgba(0,0,0,0.2);" />
 
