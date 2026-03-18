@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=5000&color=14B8A6&center=true&vCenter=true&width=600&lines=Healthcare+Data+Analyst;SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Healthcare+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=14B8A6&center=true&vCenter=true&width=600&lines=Healthcare+Data+Analyst;SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Healthcare+Insights" />
 </p>
 
 <p align="center">
