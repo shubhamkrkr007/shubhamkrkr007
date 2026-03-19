@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <!-- <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://shubhamkr-portfolio.base44.app">
     <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/shubham-k-r/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> -->
+  </a>
 </p>
 
 ---
