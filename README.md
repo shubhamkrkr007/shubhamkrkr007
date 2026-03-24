@@ -12,6 +12,7 @@
   <a href="https://shubhamkr-portfolio.base44.app">
     <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge"/>
   </a> -->
+  <p align="center">
   <a href="https://www.linkedin.com/in/shubham-k-r/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -140,8 +141,6 @@
          style="margin: 10px; vertical-align: middle;" />
   </a>
 </p> -->
-
----
 
 <p align="center">
   ✨ Building Data-Driven Impact in Healthcare ✨
