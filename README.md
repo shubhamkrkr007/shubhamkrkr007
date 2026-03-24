@@ -8,10 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=14B8A6&center=true&vCenter=true&width=600&lines=Healthcare+Data+Analyst;SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Healthcare+Insights" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://shubhamkr-portfolio.base44.app">
     <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge"/>
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/shubham-k-r/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -119,9 +119,9 @@
 
 ---
 
-<!-- HOBBIES (END ONLY - AS YOU WANTED) -->
+<!-- HOBBIES (END) -->
 
-## 🏍️ Beyond Work – Gene Throttle
+<!-- ## 🏍️ Beyond Work – Gene Throttle
 
 <p align="center">
   Passionate about motorcycles & motovlogging 🚀
@@ -139,7 +139,7 @@
          width="40"
          style="margin: 10px; vertical-align: middle;" />
   </a>
-</p>
+</p> -->
 
 ---
 
