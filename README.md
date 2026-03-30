@@ -12,7 +12,7 @@
   <a href="https://shubhamkr-portfolio.base44.app">
     <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge"/>
   </a>
-  <p align="center">
+
   <a href="https://www.linkedin.com/in/shubham-k-r/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -107,15 +107,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamkrkr007&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkrkr007&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkrkr007&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
